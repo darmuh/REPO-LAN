@@ -1,0 +1,9 @@
+{
+  "name": "ModName",
+  "version_number": "0.2.0",
+  "website_url": "https://github.com/darmuh/ModName",
+  "description": "Mod description",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
